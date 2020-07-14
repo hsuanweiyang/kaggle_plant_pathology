@@ -15,5 +15,8 @@
 ## Image Augmentation
 ### 1. Rigid Transform
 <img src="data_description/4.png">
+
 ### 2. Saturation
 <img src="data_description/3.png">
+
+## Model: Efficient-B7
