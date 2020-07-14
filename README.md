@@ -6,4 +6,7 @@
     
 ## Image Preprocessing
 ### 1. Cut Background
+#### grabcut
 <img src="data_description/1.png">
+#### Gaussian blur, denoise, threshold, canny
+<img src="data_description/2.png">
